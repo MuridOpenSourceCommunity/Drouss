@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_connection">Merci de vérifier votre connexion internet</string>    
+    <string name="image">Drouss</string>
+    <string name="hello">Drouss</string>
+    <string name="app_name">Drouss</string>
+    <string name="lien">www.drouss.org</string>
+    <string name="accueil">Cheikh Ahmadou Bamba KHADIMOU RASSOUL</string>
+    <string name="app_about">A Propos</string>
+    <string name="str_exit">Fermer</string>
+    <string name="str_ok">OK</string>
+    <string name="app_exit">Fermer</string>
+    <string name="app_exit_message">Voulez vous fermer cette application</string>
+    <string name="str_no">Non</string>
+    <string name="wait">L\'ouverture du Xacida peut prendre quelques petites minnutes merci cliquer sur le bouton Drouss et de patienter Muride. Akassa fassalé!!!</string>
+    <string name="HomeActivityTitle">Drouss | LECTURE NUMERIQUE MOURIDE</string>
+    <string name="FeedbackActivityTitle">Feedback</string>
+    <string name="thpub">THÈSES/PUBLICATIONS</string>
+    <string name="wolofal">WOLOFAL</string>
+    <string name="tariq">TARIQ</string>
+    <string name="majalis">MAJALISS</string>
+    <string name="qassida">QASSIDAS</string>
+    <string name="quran">ALQUR-ÂN</string>
+    <string name="autre">AUTRES</string>
+    <string name="titre">Titre</string>
+    <string name="auteur">Auteur</string>
+    <string name="langue">Langue</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_search">Recherche</string>
+    <string name="action_location_found">Lieu Trouvé</string>
+    <string name="action_refresh">Raffraîchir</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Aide</string>
+    <string name="action_check_updates">Recherche des mises à jour</string>
+    <string name="patienter">Veuillez patienter le temps que l\'oeuvre se charge!</string>
+
+</resources>

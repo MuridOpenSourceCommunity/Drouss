@@ -1,0 +1,45 @@
+# view AndroidManifest.xml #generated:67
+-keep class com.tab28.drouss.AutreListViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.tab28.drouss.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.tab28.drouss.MajalisListViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.tab28.drouss.PdfDrouss { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.tab28.drouss.QassidasListViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.tab28.drouss.QuranListViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.tab28.drouss.SpalshScreenActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.tab28.drouss.TariqListViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.tab28.drouss.ThesePubListViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.tab28.drouss.WolofalListViewActivity { <init>(...); }
+
+# onClick res/layout/header.xml #generated:31
+-keepclassmembers class * { *** btnFeedbackClick(...); }
+
+# onClick res/layout/header.xml #generated:16
+-keepclassmembers class * { *** btnHomeClick(...); }
+
+# onClick res/layout/main.xml #generated:30
+# onClick res/layout/main.xml #generated:36
+# onClick res/layout/main.xml #generated:51
+# onClick res/layout/main.xml #generated:57
+# onClick res/layout/main.xml #generated:70
+# onClick res/layout/main.xml #generated:76
+# onClick res/layout/main.xml #generated:89
+-keepclassmembers class * { *** onButtonClicker(...); }
+

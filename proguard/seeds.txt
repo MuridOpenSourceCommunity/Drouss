@@ -1,0 +1,226 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+com.tab28.drouss.AutreListViewActivity
+com.tab28.drouss.AutreListViewActivity: AutreListViewActivity()
+com.tab28.drouss.DashBoardActivity: DashBoardActivity()
+com.tab28.drouss.DashBoardActivity: void btnHomeClick(android.view.View)
+com.tab28.drouss.DashBoardActivity: void btnFeedbackClick(android.view.View)
+com.tab28.drouss.HomeActivity
+com.tab28.drouss.HomeActivity: HomeActivity()
+com.tab28.drouss.HomeActivity: void onButtonClicker(android.view.View)
+com.tab28.drouss.MajalisListViewActivity
+com.tab28.drouss.MajalisListViewActivity: MajalisListViewActivity()
+com.tab28.drouss.PdfDrouss
+com.tab28.drouss.PdfDrouss: PdfDrouss()
+com.tab28.drouss.QassidasListViewActivity
+com.tab28.drouss.QassidasListViewActivity: QassidasListViewActivity()
+com.tab28.drouss.QuranListViewActivity
+com.tab28.drouss.QuranListViewActivity: QuranListViewActivity()
+com.tab28.drouss.R$anim: int alpha
+com.tab28.drouss.R$anim: int translate
+com.tab28.drouss.R$color: int foreground1
+com.tab28.drouss.R$dimen: int text_size_medium
+com.tab28.drouss.R$drawable: int abre
+com.tab28.drouss.R$drawable: int autre
+com.tab28.drouss.R$drawable: int bg
+com.tab28.drouss.R$drawable: int bg_land
+com.tab28.drouss.R$drawable: int cabdmou
+com.tab28.drouss.R$drawable: int cahan
+com.tab28.drouss.R$drawable: int cav
+com.tab28.drouss.R$drawable: int chahbane
+com.tab28.drouss.R$drawable: int cilkou
+com.tab28.drouss.R$drawable: int cmm
+com.tab28.drouss.R$drawable: int craj
+com.tab28.drouss.R$drawable: int customborder
+com.tab28.drouss.R$drawable: int defaut
+com.tab28.drouss.R$drawable: int dondigne
+com.tab28.drouss.R$drawable: int dontre
+com.tab28.drouss.R$drawable: int figh
+com.tab28.drouss.R$drawable: int header
+com.tab28.drouss.R$drawable: int ic_action_about
+com.tab28.drouss.R$drawable: int ic_action_close
+com.tab28.drouss.R$drawable: int ic_feedback
+com.tab28.drouss.R$drawable: int ic_home
+com.tab28.drouss.R$drawable: int ic_launcher
+com.tab28.drouss.R$drawable: int icone
+com.tab28.drouss.R$drawable: int illu
+com.tab28.drouss.R$drawable: int irda
+com.tab28.drouss.R$drawable: int itineborom
+com.tab28.drouss.R$drawable: int itti
+com.tab28.drouss.R$drawable: int jaalibatou
+com.tab28.drouss.R$drawable: int jaar
+com.tab28.drouss.R$drawable: int jazabatou
+com.tab28.drouss.R$drawable: int jazaoul
+com.tab28.drouss.R$drawable: int jezboul
+com.tab28.drouss.R$drawable: int joypre
+com.tab28.drouss.R$drawable: int lecoran
+com.tab28.drouss.R$drawable: int logo
+com.tab28.drouss.R$drawable: int maimo
+com.tab28.drouss.R$drawable: int majali
+com.tab28.drouss.R$drawable: int majmo
+com.tab28.drouss.R$drawable: int majzob
+com.tab28.drouss.R$drawable: int mam
+com.tab28.drouss.R$drawable: int mamediarra
+com.tab28.drouss.R$drawable: int matla
+com.tab28.drouss.R$drawable: int meco
+com.tab28.drouss.R$drawable: int moubayinul
+com.tab28.drouss.R$drawable: int mouharam
+com.tab28.drouss.R$drawable: int mouridya
+com.tab28.drouss.R$drawable: int munaw
+com.tab28.drouss.R$drawable: int muntaqabat
+com.tab28.drouss.R$drawable: int ndaxam
+com.tab28.drouss.R$drawable: int ndiou
+com.tab28.drouss.R$drawable: int ocean
+com.tab28.drouss.R$drawable: int prophete
+com.tab28.drouss.R$drawable: int quatreimam
+com.tab28.drouss.R$drawable: int quran
+com.tab28.drouss.R$drawable: int qurra
+com.tab28.drouss.R$drawable: int qutba
+com.tab28.drouss.R$drawable: int qutbako
+com.tab28.drouss.R$drawable: int qutbatab
+com.tab28.drouss.R$drawable: int ramadane
+com.tab28.drouss.R$drawable: int serignesaliou
+com.tab28.drouss.R$drawable: int tab28
+com.tab28.drouss.R$drawable: int tariq
+com.tab28.drouss.R$drawable: int thpub
+com.tab28.drouss.R$drawable: int thpubmouridiya
+com.tab28.drouss.R$drawable: int verrou
+com.tab28.drouss.R$drawable: int viatiado
+com.tab28.drouss.R$drawable: int viatijeu
+com.tab28.drouss.R$drawable: int voibe
+com.tab28.drouss.R$drawable: int waqani
+com.tab28.drouss.R$drawable: int wolofal
+com.tab28.drouss.R$drawable: int woma
+com.tab28.drouss.R$drawable: int xacida
+com.tab28.drouss.R$drawable: int xatima
+com.tab28.drouss.R$drawable: int xidma
+com.tab28.drouss.R$drawable: int yarambi
+com.tab28.drouss.R$drawable: int zakat
+com.tab28.drouss.R$id: int app_exit
+com.tab28.drouss.R$id: int auteur
+com.tab28.drouss.R$id: int autre
+com.tab28.drouss.R$id: int btnFeedback
+com.tab28.drouss.R$id: int btnHome
+com.tab28.drouss.R$id: int footer
+com.tab28.drouss.R$id: int header
+com.tab28.drouss.R$id: int icon
+com.tab28.drouss.R$id: int info_text
+com.tab28.drouss.R$id: int langue
+com.tab28.drouss.R$id: int legal_text
+com.tab28.drouss.R$id: int lin_lay
+com.tab28.drouss.R$id: int list
+com.tab28.drouss.R$id: int logo
+com.tab28.drouss.R$id: int majalis
+com.tab28.drouss.R$id: int menu_about
+com.tab28.drouss.R$id: int nom
+com.tab28.drouss.R$id: int panelIconLeft
+com.tab28.drouss.R$id: int panelIconRight
+com.tab28.drouss.R$id: int qassidas
+com.tab28.drouss.R$id: int quran
+com.tab28.drouss.R$id: int tariq
+com.tab28.drouss.R$id: int thpub
+com.tab28.drouss.R$id: int vsHeader
+com.tab28.drouss.R$id: int webview
+com.tab28.drouss.R$id: int wolofal
+com.tab28.drouss.R$layout: int about
+com.tab28.drouss.R$layout: int footer_layout
+com.tab28.drouss.R$layout: int header
+com.tab28.drouss.R$layout: int list_item
+com.tab28.drouss.R$layout: int liste
+com.tab28.drouss.R$layout: int main
+com.tab28.drouss.R$layout: int pdf_drouss
+com.tab28.drouss.R$layout: int splash
+com.tab28.drouss.R$menu: int activity_main
+com.tab28.drouss.R$raw: int info
+com.tab28.drouss.R$raw: int legal
+com.tab28.drouss.R$string: int FeedbackActivityTitle
+com.tab28.drouss.R$string: int HomeActivityTitle
+com.tab28.drouss.R$string: int accueil
+com.tab28.drouss.R$string: int action_check_updates
+com.tab28.drouss.R$string: int action_contacts
+com.tab28.drouss.R$string: int action_help
+com.tab28.drouss.R$string: int action_location_found
+com.tab28.drouss.R$string: int action_refresh
+com.tab28.drouss.R$string: int action_search
+com.tab28.drouss.R$string: int action_settings
+com.tab28.drouss.R$string: int app_about
+com.tab28.drouss.R$string: int app_exit
+com.tab28.drouss.R$string: int app_exit_message
+com.tab28.drouss.R$string: int app_name
+com.tab28.drouss.R$string: int auteur
+com.tab28.drouss.R$string: int autre
+com.tab28.drouss.R$string: int hello
+com.tab28.drouss.R$string: int image
+com.tab28.drouss.R$string: int langue
+com.tab28.drouss.R$string: int lien
+com.tab28.drouss.R$string: int majalis
+com.tab28.drouss.R$string: int no_connection
+com.tab28.drouss.R$string: int patienter
+com.tab28.drouss.R$string: int qassida
+com.tab28.drouss.R$string: int quran
+com.tab28.drouss.R$string: int str_exit
+com.tab28.drouss.R$string: int str_no
+com.tab28.drouss.R$string: int str_ok
+com.tab28.drouss.R$string: int tariq
+com.tab28.drouss.R$string: int thpub
+com.tab28.drouss.R$string: int titre
+com.tab28.drouss.R$string: int wait
+com.tab28.drouss.R$string: int wolofal
+com.tab28.drouss.R$style: int AppBaseTheme
+com.tab28.drouss.R$style: int AppTheme
+com.tab28.drouss.R$style: int FooterBar
+com.tab28.drouss.R$style: int HomeButton
+com.tab28.drouss.R$style: int heading_text
+com.tab28.drouss.SpalshScreenActivity
+com.tab28.drouss.SpalshScreenActivity: SpalshScreenActivity()
+com.tab28.drouss.TariqListViewActivity
+com.tab28.drouss.TariqListViewActivity: TariqListViewActivity()
+com.tab28.drouss.ThesePubListViewActivity
+com.tab28.drouss.ThesePubListViewActivity: ThesePubListViewActivity()
+com.tab28.drouss.WolofalListViewActivity
+com.tab28.drouss.WolofalListViewActivity: WolofalListViewActivity()
